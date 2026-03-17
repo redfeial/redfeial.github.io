@@ -11,6 +11,27 @@
     },
     "items": [
         {
+            "id": "https://redfeial.github.io/soporte-editorial-eduntref-y-uba.html",
+            "url": "https://redfeial.github.io/soporte-editorial-eduntref-y-uba.html",
+            "title": "Soporte Editorial: EDUNTREF y UBA respaldan el VII Congreso",
+            "summary": "La Red FEIAL cuenta con una sólida infraestructura editorial para el VII Congreso 2026. Los sellos estratégicos EDUNTREF (Universidad Nacional de Tres de Febrero) y las prensas de la UBA (Universidad de Buenos Aires) garantizarán la publicación de las memorias del evento con registro ISBN.",
+            "content_html": "\n  <p>\n    La Red FEIAL cuenta con una sólida infraestructura editorial para el VII Congreso 2026. Los sellos estratégicos EDUNTREF (Universidad Nacional de Tres de Febrero) y las prensas de la UBA (Universidad de Buenos Aires) garantizarán la publicación de las memorias del evento con registro ISBN.\n  </p>\n\n  <p>\n    <b>🏛️ Proceso editorial:<br></b>\n  </p>\n\n  <ul>\n    <li>Arbitraje científico por pares ciegos</li><li>Selección de comunicaciones destacadas</li><li>Publicación en memorias con ISBN</li><li>Distribución en ferias de libros durante el congreso</li>\n  </ul>\n\n  <p>\n    <strong>📚 Novedades 2026:<br></strong>\n  </p>\n\n  <p>\n    Durante el encuentro en Argentina (octubre), se realizarán:<br>\n  </p>\n\n  <ul>\n    <li>Ferias de libros especializados</li><li>Presentaciones de obras colectivas</li><li>Documentación de \"trayectorias estudiantiles\" indígenas</li><li>Integración de hallazgos al currículo de educación superior regional</li>\n  </ul>\n\n  <p>\n    <b>🎯 Impacto duradero:<br></b>\n  </p>\n\n  <p>\n    Este soporte editorial asegura que las investigaciones sobre formación docente y educación antirracista trasciendan el evento y tengan impacto permanente en la región.<br><br>La Revista Red FEIAL funcionará como motor que mantiene vivos los debates académicos entre cada encuentro bianual.<br><br>🔗 Catálogo editorial: [EDUNTREF] | [UBA]\n  </p>",
+            "image": "https://redfeial.github.io/media/posts/117/eduntreef-uba.webp",
+            "author": {
+                "name": "apradoc"
+            },
+            "tags": [
+                   "vii-congreso-2026",
+                   "uba",
+                   "pre-congreso-2026",
+                   "memorias",
+                   "isbn",
+                   "eduntref"
+            ],
+            "date_published": "2026-03-17T12:09:24-04:00",
+            "date_modified": "2026-03-17T12:09:24-04:00"
+        },
+        {
             "id": "https://redfeial.github.io/virginia-reyes-de-la-cruz-activa-el-nodo-mexico-con-miras-al-2026.html",
             "url": "https://redfeial.github.io/virginia-reyes-de-la-cruz-activa-el-nodo-mexico-con-miras-al-2026.html",
             "title": "Virginia Reyes de la Cruz activa el Nodo México con miras al 2026",
@@ -77,10 +98,11 @@
             "tags": [
                    "vii-congreso-2026",
                    "revista-redfeial",
-                   "publicacion-academica"
+                   "publicacion-academica",
+                   "pre-congreso-2026"
             ],
             "date_published": "2026-03-14T11:12:00-04:00",
-            "date_modified": "2026-03-17T11:32:01-04:00"
+            "date_modified": "2026-03-17T12:09:46-04:00"
         },
         {
             "id": "https://redfeial.github.io/insumos-teoricos-desde-didac-ibero.html",
@@ -174,25 +196,6 @@
             ],
             "date_published": "2025-08-25T16:36:00-04:00",
             "date_modified": "2026-03-17T11:33:19-04:00"
-        },
-        {
-            "id": "https://redfeial.github.io/corrientes-reafirma-compromiso-con-el-guarani-y-el-plurilingueismo-rumbo-al-2026.html",
-            "url": "https://redfeial.github.io/corrientes-reafirma-compromiso-con-el-guarani-y-el-plurilingueismo-rumbo-al-2026.html",
-            "title": "Corrientes reafirma compromiso con el guaraní y el plurilingüismo rumbo al 2026",
-            "summary": "La provincia de Corrientes consolidó su rol de sede estratégica para la Red FEIAL al organizar una jornada regional sobre lenguas originarias, con participación de autoridades educativas de Chaco, Formosa y Misiones. 💬 Frase clave: \"Sin memoria no hay futuro\" — Julio Navias, Subsecretario de&hellip;",
-            "content_html": "\n  <p>\n    La provincia de Corrientes consolidó su rol de sede estratégica para la Red FEIAL al organizar una jornada regional sobre lenguas originarias, con participación de autoridades educativas de Chaco, Formosa y Misiones.<br>\n  </p>\n\n  <p>\n    💬 Frase clave: \"Sin memoria no hay futuro\" — Julio Navias, Subsecretario de Gestión Educativa [[3]]<br>\n  </p>\n\n  <p>\n    ✅ Acuerdos relevantes:<br>• Producción colectiva de materiales educativos interculturales<br>• Formación docente con enfoque territorial<br>• Proyección de audiovisuales con voces comunitarias para enriquecer debates<br>\n  </p>\n\n  <p>\n    Esta actividad es un paso confirmado en el camino hacia el VII Congreso Internacional de octubre 2026, que buscará visibilizar de manera internacional el trabajo del NEA en educación intercultural [[5]].<br>\n  </p>\n\n  <p>\n    📰 Fuente: Diario Época / Ministerio de Educación de Corrientes.\n  </p>",
-            "author": {
-                "name": "apradoc"
-            },
-            "tags": [
-                   "vii-congreso-2026",
-                   "pre-congreso-2026",
-                   "plurilingüismo",
-                   "guarani",
-                   "corrientes"
-            ],
-            "date_published": "2025-06-23T10:21:00-04:00",
-            "date_modified": "2026-03-17T10:24:03-04:00"
         }
     ]
 }
