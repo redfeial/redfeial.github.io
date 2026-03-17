@@ -3,7 +3,7 @@
     <title>RedFEIAL 02</title>
     <link href="https://redfeial.github.io/feed.xml" rel="self" />
     <link href="https://redfeial.github.io" />
-    <updated>2026-03-17T11:37:37-04:00</updated>
+    <updated>2026-03-17T11:52:19-04:00</updated>
     <author>
         <name>apradoc</name>
     </author>
@@ -212,6 +212,7 @@
         </author>
         <link href="https://redfeial.github.io/insumos-teoricos-desde-didac-ibero.html"/>
         <id>https://redfeial.github.io/insumos-teoricos-desde-didac-ibero.html</id>
+        <media:content url="https://redfeial.github.io/media/posts/114/didac_ibero_revista.jpg" medium="image" />
             <category term="vii-congreso-2026"/>
             <category term="pre-congreso-2026"/>
             <category term="innovacion-pedagogica"/>
@@ -221,11 +222,13 @@
         <updated>2025-12-20T10:32:00-04:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://redfeial.github.io/media/posts/114/didac_ibero_revista.jpg" alt="" />
                     La revista DIDAC del Instituto de Investigaciones en Educación (IBERO) aporta marcos conceptuales clave que sustentan los ejes temáticos del VII Congreso Internacional de la Red FEIAL. 🎓 Temas transferibles al congreso 2026: • Diseño Universal para el Aprendizaje (DUA) aplicado a contextos interculturales •&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://redfeial.github.io/media/posts/114/didac_ibero_revista.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     La revista DIDAC del Instituto de Investigaciones en Educación (IBERO) aporta marcos conceptuales clave que sustentan los ejes temáticos del VII Congreso Internacional de la Red FEIAL.
