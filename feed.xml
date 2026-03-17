@@ -3,7 +3,7 @@
     <title>RedFEIAL 02</title>
     <link href="https://redfeial.github.io/feed.xml" rel="self" />
     <link href="https://redfeial.github.io" />
-    <updated>2026-03-17T12:09:46-04:00</updated>
+    <updated>2026-03-17T12:21:59-04:00</updated>
     <author>
         <name>apradoc</name>
     </author>
@@ -316,6 +316,7 @@
         </author>
         <link href="https://redfeial.github.io/argentina-2026-calendario-academico.html"/>
         <id>https://redfeial.github.io/argentina-2026-calendario-academico.html</id>
+        <media:content url="https://redfeial.github.io/media/posts/113/calendario-socionatural.jpg" medium="image" />
             <category term="vii-congreso-2026"/>
             <category term="uba"/>
             <category term="pre-congreso-2026"/>
@@ -325,11 +326,13 @@
         <updated>2025-12-17T10:27:00-04:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://redfeial.github.io/media/posts/113/calendario-socionatural.jpg" alt="" />
                     El año 2026 posiciona a Argentina como laboratorio de ideas sobre justicia social y función social del conocimiento. En este contexto, el VII Congreso Internacional de la Red FEIAL (octubre 2026) se articula con otros eventos de alto nivel: 🗓️ Eventos concurrentes: • VII Jornadas&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://redfeial.github.io/media/posts/113/calendario-socionatural.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     El año 2026 posiciona a Argentina como laboratorio de ideas sobre justicia social y función social del conocimiento. En este contexto, el VII Congreso Internacional de la Red FEIAL (octubre 2026) se articula con otros eventos de alto nivel:
