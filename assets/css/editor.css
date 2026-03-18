@@ -2,7 +2,8 @@
  * Add your own CSS code for the WYSIWYG editor 
  */
 /* Ajuste para móviles y tablets pequeñas */
+@media (max-width: 56.1875em) {
 .main-content {
-    margin-top: 4.5rem;
+    padding: 0.1rem 1.2142857143rem;
+	}
 }
-    
