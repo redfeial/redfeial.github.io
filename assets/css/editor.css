@@ -1,3 +1,8 @@
 /* 
  * Add your own CSS code for the WYSIWYG editor 
  */
+/* Ajuste para móviles y tablets pequeñas */
+.main-content {
+    margin-top: 4.5rem;
+}
+    
