@@ -6,10 +6,10 @@
 
           // Fuse options injected from plugin config
           const fuseOptions = {
-            keys: ["title","excerpt","tags"],
+            keys: ["title","excerpt","text"],
             isCaseSensitive: false,
             includeScore: true,
-            includeMatches: true,
+            includeMatches: false,
             findAllMatches: false,
             minMatchCharLength: 2,
             shouldSort: true,
@@ -58,7 +58,7 @@
             results.forEach(result => {
               const item = result.item;
               const title = highlightMatches(item.title || "", result.matches, "title");
-              const excerptKey = ["title","excerpt","tags"].includes('excerpt') ? 'excerpt' : (["title","excerpt","tags"].includes('text') ? 'text' : null);
+              const excerptKey = ["title","excerpt","text"].includes('excerpt') ? 'excerpt' : (["title","excerpt","text"].includes('text') ? 'text' : null);
               const summary = excerptKey ? highlightMatches(item[excerptKey] || "", result.matches, excerptKey) : "";
 
               const url = item.url || "#";
@@ -111,14 +111,14 @@
             }
 
             // feed.json uses 'summary' or 'content_html' -> map to excerpt/text fields if our keys expect them
-            if (["title","excerpt","tags"].includes('excerpt')) {
+            if (["title","excerpt","text"].includes('excerpt')) {
               copy.excerpt = copy.excerpt || copy.summary || "";
             }
-            if (["title","excerpt","tags"].includes('text')) {
+            if (["title","excerpt","text"].includes('text')) {
               copy.text = copy.text || copy.content_html || "";
             }
 
-            if (["title","excerpt","tags"].includes('author')) {
+            if (["title","excerpt","text"].includes('author')) {
               // feed.json might have author as object or string
               if (!copy.author) {
                 if (it.author && typeof it.author === 'object') copy.author = it.author.name || "";
@@ -126,7 +126,7 @@
               }
             }
 
-            if (["title","excerpt","tags"].includes('tags')) {
+            if (["title","excerpt","text"].includes('tags')) {
               if (!copy.tags) {
                 // feed.json tags may be an array of objects
                 if (Array.isArray(it.tags)) {
