@@ -3,7 +3,7 @@
     <title>Red FEIAL</title>
     <link href="https://redfeial.github.io/feed.xml" rel="self" />
     <link href="https://redfeial.github.io" />
-    <updated>2026-04-05T21:42:41-04:00</updated>
+    <updated>2026-04-06T03:09:53-04:00</updated>
     <author>
         <name>Red FEIAL</name>
     </author>
@@ -188,9 +188,9 @@
         <link href="https://redfeial.github.io/blog/virginia-reyes-de-la-cruz-activa-el-nodo-mexico-con-miras-al-2026/"/>
         <id>https://redfeial.github.io/blog/virginia-reyes-de-la-cruz-activa-el-nodo-mexico-con-miras-al-2026/</id>
         <media:content url="https://redfeial.github.io/media/posts/107/virginia-guadalupe-reyes_n.jpg" medium="image" />
+            <category term="virginia-reyes"/>
             <category term="vii-congreso-2026"/>
             <category term="pre-congreso-2026"/>
-            <category term="Impulsores 2026"/>
 
         <updated>2026-03-05T14:49:00-04:00</updated>
             <summary type="html">
@@ -235,7 +235,7 @@
         <media:content url="https://redfeial.github.io/media/posts/109/bruno-baronnet-2024.jpg" medium="image" />
             <category term="vii-congreso-2026"/>
             <category term="pre-congreso-2026"/>
-            <category term="Impulsores 2026"/>
+            <category term="bruno-baronnet"/>
 
         <updated>2026-01-12T16:50:00-04:00</updated>
             <summary type="html">
